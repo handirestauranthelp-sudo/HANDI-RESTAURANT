@@ -1,0 +1,6 @@
+{
+  "name": "Handi Restaurant POS & Food Billing",
+  "description": "Professional Restaurant POS, 15 Room Food Accounts, Kitchen Display System (KDS), and Smart Billing for Handi Restaurant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
